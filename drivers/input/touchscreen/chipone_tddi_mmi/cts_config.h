@@ -27,7 +27,7 @@
 //#define CFG_CTS_FW_LOG_REDIRECT
 
 /** Whether force download firmware to chip */
-//#define CFG_CTS_FIRMWARE_FORCE_UPDATE
+#define CFG_CTS_FIRMWARE_FORCE_UPDATE
 
 /** Use build in firmware or firmware file in fs*/
 //#define CFG_CTS_DRIVER_BUILTIN_FIRMWARE
